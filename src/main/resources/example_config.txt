@@ -1,0 +1,5 @@
+spring.application.name=MoviesRestful
+
+spring.data.mongodb.uri=mongodb://root:170504@localhost:27017/?authSource=admin&readPreference=primary&appname=MongoDB%20Teste&directConnection=true&ssl=false
+
+server.port=8095
